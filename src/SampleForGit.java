@@ -8,6 +8,7 @@ public class SampleForGit {
     System.out.println("is this msg from sravani's bracnh");
         System.out.println("is this msg from 2nd time sravani's bracnh");
         System.out.println("checking for roll back");
+        System.out.println("undo the commit123");
     demo.test1();
     }
 }
