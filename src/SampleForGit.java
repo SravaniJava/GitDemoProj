@@ -7,6 +7,8 @@ public class SampleForGit {
     System.out.println("this is 3rd change");
     System.out.println("is this msg from sravani's bracnh");
         System.out.println("is this msg from 2nd time sravani's bracnh");
+   System.out.println("this is for undo commit");
     demo.test1();
+
     }
 }
